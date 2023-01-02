@@ -3,7 +3,7 @@
 
 ###
 
-The original data from open access database by [J. Camargo, et al.](https://doi.org/10.1016/j.jbiomech.2021.110320)
+The original data is from open access database by [J. Camargo, et al.](https://doi.org/10.1016/j.jbiomech.2021.110320)
 
 The results of the journal titled, Estimation of Lower Extremity Muscle Activity in Gait Using the Wearable Inertial Measurement and Neural Network, are uploaded here.
 

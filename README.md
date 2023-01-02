@@ -1,0 +1,1 @@
+# Estimating-Lower-Extremity-Muscle-Activity-in-Gait-using-IMU-and-NN

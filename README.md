@@ -1,5 +1,5 @@
 # Estimation of Lower Extremity Muscle Activity in Gait Using the Wearable Inertial Measurement Units and Neural Network
-### Min Khant, Darwin Gouwanda, Alpha A. Gopalai, King Hann Lim and Chee Choong Foong 
+### By: Min Khant, Darwin Gouwanda, Alpha A. Gopalai, King Hann Lim and Chee Choong Foong 
 
 ###
 

@@ -1,4 +1,7 @@
 # Estimation of Lower Extremity Muscle Activity in Gait Using the Wearable Inertial Measurement Units and Neural Network
+$${\color{olive}By: \space Min \space Khant, \space Darwin \space Gouwanda, \space Alpha \space A. \space Gopalai, \space King \space Hann \space Lim \space and \space Chee  \space Choong \space Foong}$$
+
+###
 
 The original data from open access database by [J. Camargo, et al.](https://doi.org/10.1016/j.jbiomech.2021.110320)
 
